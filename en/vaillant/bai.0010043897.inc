@@ -345,9 +345,9 @@ w,,install,PrEnergyCountHc3,PrEnergyCountCH3_DK: Predictive Maintenance data,,,b
 [id_15_id='EMM00']w,,,Z1Timer_Friday,timer heating friday (untested),,,b555,a6000004,slotindex,,UCH,,,index of a time slot,slotcount,,UCH,,,number of slots on a day,htm,,HTM,,,,htm_1,,HTM,,,,slottemp,,UIN,10,°C,desired temperature of a slot
 [id_15_id='EMM00']w,,,Z1Timer_Saturday,timer heating saturday (untested),,,b555,a6000005,slotindex,,UCH,,,index of a time slot,slotcount,,UCH,,,number of slots on a day,htm,,HTM,,,,htm_1,,HTM,,,,slottemp,,UIN,10,°C,desired temperature of a slot
 [id_15_id='EMM00']w,,,Z1Timer_Sunday,timer heating sunday (untested),,,b555,a6000006,slotindex,,UCH,,,index of a time slot,slotcount,,UCH,,,number of slots on a day,htm,,HTM,,,,htm_1,,HTM,,,,slottemp,,UIN,10,°C,desired temperature of a slot
-[id_15_id='EMM00']r,,,PrFuelSumHc,fuel consumption heating,,,b516,1000ffff84030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
-[id_15_id='EMM00']r,,,PrEnergySumHc,energy consumption heating,,,b516,1000ffff83030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
-[id_15_id='EMM00']r,,,YieldHc,yield heating,,,b516,1000ffff49030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
-[id_15_id='EMM00']r,,,PrFuelSumHwc,fuel consumption hot water,,,b516,1000ffff84040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
-[id_15_id='EMM00']r,,,PrEnergySumHwc,energy consumption hot water,,,b516,1000ffff83040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
-[id_15_id='EMM00']r,,,YieldHwc,yield hot water,,,b516,1000ffff49040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,PrFuelSumHc,fuel consumption heating,,,b516,1000ffff84030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,PrEnergySumHc,energy consumption heating,,,b516,1000ffff83030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,YieldHc,yield heating,,,b516,1000ffff49030000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,PrFuelSumHwc,fuel consumption hot water,,,b516,1000ffff84040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,PrEnergySumHwc,energy consumption hot water,,,b516,1000ffff83040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
+r,,,YieldHwc,yield hot water,,,b516,1000ffff49040000,ign,,IGN:7,,,,value,,EXP,1000,kWh,
